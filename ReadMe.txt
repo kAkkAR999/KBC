@@ -1,12 +1,6 @@
 ###############################################################
-ReadMe for assignment submitted by 2019B2PS0994P
-Practical section number: P5
-Assignment question attempted: 1
+ReadMe for assignment submitted by 2019B2PS0671P
 ###############################################################
-Team Members:
-1. 2019B2PS0994P    Snehal Juneja
-2. 2019A2PS0929P    Ramkrishna Sharma
-3. 2019A2PS0949P    Anika Garg
 ###############################################################
 Description of how to run the code and observe the output:
 1. The exe file is called KBC.exe. It is a quiz/game based application based on Kaun Banega Crorepati game.
